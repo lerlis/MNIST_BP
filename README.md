@@ -7,6 +7,7 @@
 ![BP_Evaluation](https://github.com/lerlis/MNIST_BP/blob/main/fig/BP_Evaluation.jpg) 
 2. MNIST_By_CNN.py 主要实现了使用CNN网络训练模型并绘制相关曲线
 3. model_test.py 可以加载已经保存的模型进行测试并实现可视化
+![visual](https://github.com/lerlis/MNIST_BP/blob/main/viaual_BP/batch0.jpg) 
 4. read_and_plot.py 存放了一些读取数据和绘图的函数
 5. test.py 测试各种功能使用的，没有实际意义
 
